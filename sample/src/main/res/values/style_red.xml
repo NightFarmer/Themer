@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme_Red" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/primary_Red</item>
+        <item name="colorPrimaryDark">#d24f4f</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

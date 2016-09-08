@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme_Blue" parent="AppBaseTheme">
+
+        <item name="colorPrimary">@color/primary_Blue</item>
+        <item name="colorPrimaryDark">#0053b9</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

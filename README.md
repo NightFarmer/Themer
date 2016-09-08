@@ -6,7 +6,7 @@
 
 ### ScreenShot
 ![示例1](https://raw.githubusercontent.com/NightFarmer/Themer/master/sample/screenshot/Themer1.gif "示例1")
-![示例1](https://raw.githubusercontent.com/NightFarmer/Themer/master/sample/screenshot/Themer1.gif "示例1")
+![示例1](https://raw.githubusercontent.com/NightFarmer/Themer/master/sample/screenshot/Themer2.gif "示例1")
 
 ### 使用方法
 
